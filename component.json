@@ -1,0 +1,14 @@
+{
+  "name": "util",
+  "repo": "lennart/util",
+  "description": "node.js util polyfill",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
